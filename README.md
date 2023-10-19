@@ -1,6 +1,6 @@
 # Jeu de bataille navale
 
-# TO DO : 
+TO DO : 
 - inclure des bateaux de différentes tailles (porte-avion=5, croiseur=4, contre torpilleur=3, sous-marin=3, torpilleur=2)
 - placement des bateaux : boucle tant que tous les bateaux ne sont pas tous placés -> choix du
 bateau -> bloquer aléatoirement une ligne (ou colonne) -> placer les éléments de bateau à la suite sur la ligne (ou
